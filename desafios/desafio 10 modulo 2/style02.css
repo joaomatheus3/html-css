@@ -1,0 +1,52 @@
+@font-face {
+    font-family:'idroid';
+    src: url(pacote-projeto-d010/fontes/idroid.otf);
+    font-weight: lighter;
+}
+
+main {
+    background-color: white;  
+    margin:auto;
+    padding: 20px;
+    min-width: 320px;
+    max-width: 1000px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.titulounico {
+    margin: 10px;
+    font-size: 2em;
+    text-align: left;
+    font-family:'idroid';
+    font-weight: lighter;
+    color: #124428;
+}
+
+.paragrafo02 {
+    font-size:20px;
+    font-weight: bolder;
+    text-align: justify;
+}
+
+.cor {
+    background-image: linear-gradient(to right, #3bd57ea9, white);
+    margin: auto;
+}
+
+.imagembug {
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+}
+
+.video {
+    background-color: #124428;
+   
+    margin:auto;
+    display: block;
+}
+

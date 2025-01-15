@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+
+body {
+    font-family: jaro;
+    font-size: 2em;
+    color: black;
+}
+
+h1 {
+    font-family: 'jaro';
+    font-size: 2em;
+    font-weight: lighter;
+
+}

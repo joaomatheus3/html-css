@@ -1,0 +1,26 @@
+/*@charset "UTF-8";
+
+body {
+    font-family: 'Times New Roman', Times, serifif;
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h1 {
+    font: italic bold 3em, sans-serif;
+}
+
+/* shorthand 
+
+font-style -> font-weight ->font-size ->
+font-family */
+
+/*
+Medidas absolutas
+cm, mm, in, px, pt, pc
+
+Medidas relativas
+em, ex, rem, vw, vh, %
+*/
